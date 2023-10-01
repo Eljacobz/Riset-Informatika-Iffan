@@ -1,4 +1,6 @@
-Riset-Informatika-Iffan
+Nama : Muhammad Iffan Maulana
+NPM  : 20081010221
+kelas: Riset Informatika D
 
 # Topik : Image Upscaling & Video Games
 
