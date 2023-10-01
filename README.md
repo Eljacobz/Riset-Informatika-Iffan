@@ -7,3 +7,4 @@
 # <h3>Riset : Peningkatan performa dalam bermain video games dengan Video Games Upscaling.<h3/>
 
 # Research Question
+<li>•	Apa saja manfaat jika menggunakan DLSS ketika bermain game ?<li/>
