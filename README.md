@@ -1,4 +1,4 @@
-Nama : Muhammad Iffan Maulana
+Nama : Muhammad Iffan Maulana <br/>
 NPM  : 20081010221
 kelas: Riset Informatika D
 
