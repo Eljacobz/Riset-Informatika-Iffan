@@ -7,7 +7,11 @@
 # <h3>Riset : Peningkatan performa dalam bermain video games dengan Video Games Upscaling.<h3/>
 
 # Research Question
-<li>Apa saja manfaat jika menggunakan DLSS ketika bermain game ?<li/><li>Seberapa signifikan performa yang didapat jika menggunakan DLSS ?<li/><li>Apakah setiap versi dari DLSS mempengaruhi performa dari game ?<li/><li>Apakah ada alternative lain jika game tersebut masih belum mendukung DLSS ?<li/><li>Bagiamana performa dari DLSS jika pemain menggunakan GPU dengan generasi lama ?<li/>
+<li>Apa saja manfaat jika menggunakan DLSS ketika bermain game ?<li/>
+<li>Seberapa signifikan performa yang didapat jika menggunakan DLSS ?<li/>
+<li>Apakah setiap versi dari DLSS mempengaruhi performa dari game ?<li/>
+<li>Apakah ada alternative lain jika game tersebut masih belum mendukung DLSS ?<li/>
+<li>Bagiamana performa dari DLSS jika pemain menggunakan GPU dengan generasi lama ?<li/>
 
 # Teori
 Referensi : https://arxiv.org/abs/2012.09810 
