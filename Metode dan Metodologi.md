@@ -12,3 +12,7 @@
    - [CodeIgniter for rapid php application development](https://www.bongoclass.com/hq/maktaba/uploads/Codeigniter-For--PHP-Developers.pdf)
    - [Gaussian Filter based on Deterministic Sampling for High Quality Nonlinear Estimation](https://www.sciencedirect.com/science/article/pii/S1474667016411572)
 
+## Implementasi dalam Riset
+- Metode Deep Learning Super Sampling (DLSS) 
+- Metodologi pelatihan dan optimisasi jaringan
+- Metode Convolutional Autoencoder Neural Networks
