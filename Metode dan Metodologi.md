@@ -1,3 +1,10 @@
 ## Perbedaan Metode dan Metodologi
-- Metode adalah “prosedur, teknik, atau langkah untuk melakukan sesuatu, terutama untuk mencapai tujuan tertentu.
-- Metodologi adalah “prosedur ilmiah yang didalamnya termasuk pembentukan konsep, preposisi, model, hipotesis, dan teori, termasuk metode itu sendiri.
+- Metode hanya mengacu pada berbagai cara yang dapat digunakan untuk mengumpulkan dan/atau menganalisis data
+- Metodologi mengacu pada pendekatan keseluruhan terhadap proses penelitian, mulai dari landasan teori hingga pengumpulan dan analisis data
+
+## Contoh Paper yang Menggunakan Metodologi atau Metode
+1. Metode
+   - [Image Edge Detection Based On Opencv ](http://www.ijeee.net/uploadfile/2013/0702/20130702104409134.pdf)
+   -
+   -
+2. 
